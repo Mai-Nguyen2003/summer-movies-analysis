@@ -22,4 +22,15 @@ Exploring the movies data to answer keys question:
 #### Data Visualization
 Use Matplotlib to create charts perforing data insights
 #### Results/Findings:
+- Movies produced between 1940 and 1960 have high average point voted by audience
+- Comedy, Drama, Horror are on the top of movie genres watched in summer.
+- The distribution of average rating scores focus on points around 6 and 7.
+- The movies with 90 minutes runtime have highest vote from audience.
+#### Uncover Insights:
+On top 5 movies with highest rating scores, there are 2 documentary movies. Documentary genre also raises interest in history, discovery. 
+A suitable, interesting movie type should be watched with family and friends.<br/>
+Quite surprise, that Reality-TV and TalkShow don't have so much votes from audience.
+#### Limitations:
+Some important values of features are not given, this affects the accuracy of my conclusions about my analysis. 
+
 
